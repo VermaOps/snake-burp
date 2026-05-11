@@ -13,9 +13,9 @@ OUTPUT_DIR="$PROJECT_DIR/target"
 JAR_NAME="snake-burp-v1.0.0.jar"
 
 # Path to Burp Suite Community Edition on Mac
-BURP_JAR="/Applications/Burp Suite Professional.app/Contents/Resources/app/burpsuite_pro.jar"
+BURP_JAR="/Applications/Burp Suite.app/Contents/Resources/app/burpsuite.jar"
 if [ ! -f "$BURP_JAR" ]; then
-    BURP_JAR="/Applications/Burp Suite Community Edition.app/Contents/Resources/app/burpsuite_community.jar"
+    BURP_JAR="/Applications/Burp Suite.app/Contents/Resources/app/burpsuite.jar"
 fi
 
 # Colors for output
