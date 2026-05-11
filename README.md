@@ -63,7 +63,7 @@ snake-burp/
 - Burp Suite Community/Professional Edition
 
 ### Quick Install (Pre-built JAR)
-1. Download the latest `snake-burp-v1.0.0.jar` from the [Releases](https://github.com/berserkikun/snake-burp/releases) page
+1. Download the latest `snake-burp-v1.0.0.jar` from the [Releases](https://github.com/VermaOps/snake-burp/releases) page
 2. Open Burp Suite → Extender → Extensions
 3. Click "Add"
 4. Set Extension Type to "Java"
@@ -178,11 +178,11 @@ Your support helps maintain the project and in creation of new tools.
 
 <div align="center">
 
-**Built with ❤️ by [BerserkiKun](https://github.com/berserkikun)**
+**Built with ❤️ by [VermaOps](https://github.com/VermaOps)**
 
-[![GitHub Stars](https://img.shields.io/github/stars/berserkikun/snake-burp?style=social)](https://github.com/berserkikun/snake-burp/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/berserkikun/snake-burp)](https://github.com/berserkikun/snake-burp/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/berserkikun/snake-burp?style=social)](https://github.com/berserkikun/snake-burp/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/VermaOps/snake-burp?style=social)](https://github.com/VermaOps/snake-burp/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/VermaOps/snake-burp)](https://github.com/VermaOps/snake-burp/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/VermaOps/snake-burp?style=social)](https://github.com/VermaOps/snake-burp/network/members)
 
 **⭐ Star this repo if you find it useful for mobile security testing!**
 
